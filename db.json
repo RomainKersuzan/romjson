@@ -1,9 +1,6 @@
 {
   "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
+ {"id":"1","account_name":"Home Loan Account","amount":"53.96","iban":"GL2892415196580170","currency":"$"},{"id":"2","account_name":"Credit Card Account","amount":"992.09","iban":"PT70158480100744700099083","currency":"$"},{"id":"3","account_name":"Money Market Account","amount":"539.27","iban":"LI050679356204LD61366","currency":"$"},{"id":"4","account_name":"Money Market Account","amount":"680.07","iban":"TL772060985262332009033","currency":"$"},{"id":"5","account_name":"Checking Account","amount":"141.49","iban":"SK0300605500856276408221","currency":"$"},{"id":"6","account_name":"Savings Account","amount":"347.58","iban":"VG9823701228500850040316","currency":"$"},{"id":"7","account_name":"Auto Loan Account","amount":"27.30","iban":"SE2283276000300107706394","currency":"$"},{"id":"8","account_name":"Home Loan Account","amount":"270.65","iban":"SE9300811179976201699546","currency":"$"},{"id":"9","account_name":"Home Loan Account","amount":"775.06","iban":"MK83865Z8748308O680","currency":"$"},{"id":"10","account_name":"Investment Account","amount":"95.17","iban":"DO96EXCL02028759606000400895","currency":"$"}
   ],
   "profile": {
     "name": "typicode"
